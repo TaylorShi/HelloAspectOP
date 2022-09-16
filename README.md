@@ -14,4 +14,4 @@
 
 ## 相关文章
 
-* [乘风破浪，遇见最佳跨平台跨终端框架.Net Core/.Net生态 - 浅析ASP.NET Core面向切面编程(AOP)的能力](https://www.cnblogs.com/taylorshi/p/16697506.html)
+* [乘风破浪，遇见最佳跨平台跨终端框架.Net Core/.Net生态 - 浅析ASP.NET Core引入面向切面编程(AOP)的能力和第三方依赖注入框架Autofac](https://www.cnblogs.com/taylorshi/p/16697506.html)
